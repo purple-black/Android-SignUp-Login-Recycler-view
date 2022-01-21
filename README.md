@@ -1,2 +1,3 @@
 # Android-TodoApp-Kotlin
-A simple Todo app in Kotlin using firebase 
+A simple android todo project which contains sign up and login (using firebase) and recycler view.
+language: Kotlin
